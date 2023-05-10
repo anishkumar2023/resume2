@@ -1,0 +1,24 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+background-color:yellow;
+}
+.container{
+ width:90%
+ margin: 0 auto;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col{
+	width:50%;
+}
+.col1{
+	width:50%;
+	font-size:25px;
+}
+.img{
+	width:100%;
+}
